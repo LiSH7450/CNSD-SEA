@@ -24,3 +24,7 @@ This file includes the labeling information of 127 CNS drugs with the file forma
 CNS Drugs Structures.sdf.zip
 --------------------------------
 This file provides the structural data for 127 CNS drugs.
+
+parse.py
+--------------------------------
+This file provides the code for extracting drugs from DrugBank.
